@@ -31,8 +31,7 @@ HEIGHT = 1080
 FPS = 30
 DISPLAY_SIZE = (960, 540)
 # ---- YOLO ----
-MODEL_PATH = "yolov8n.pt" # TensorRT 엔진(.engine)이면 경로만 바꾸면
-됨
+MODEL_PATH = "yolov8n.pt" # TensorRT 엔진(.engine)이면 경로만 바꾸면 됨
 IMGSZ = 416
 CONF_THRES = 0.40
 ALLOWED_CLASSES = None # 예: {"person", "chair", "car"} / None =
@@ -40,13 +39,11 @@ ALLOWED_CLASSES = None # 예: {"person", "chair", "car"} / None =
 # ---- 위치 (프레임 가로 기준 비율) ----
 LEFT_LIMIT = 1 / 3
 RIGHT_LIMIT = 2 / 3
-# ---- 거리 (박스 면적 / 프레임 면적 = A, 박스 하단 y / 프레임 높이 = B)
-----
+# ---- 거리 (박스 면적 / 프레임 면적 = A, 박스 하단 y / 프레임 높이 = B) ----
 # 현장에서 보면서 튜닝하세요.
 AREA_NEAR = 0.04
 AREA_DANGER = 0.15
-BOTTOM_DANGER = 0.97 # 박스가 화면 바닥에 닿을 정도 + 면적이 어
-느 정도 되면 위험
+BOTTOM_DANGER = 0.97 # 박스가 화면 바닥에 닿을 정도 + 면적이 어느 정도 되면 위험
 BOTTOM_DANGER_MIN_AREA = 0.06
 FAR, NEAR, DANGER = 1, 2, 3
 LEVEL_NAME = {FAR: "FAR", NEAR: "NEAR", DANGER: "DANGER"}
@@ -65,8 +62,7 @@ HAPTIC_PATTERN = {
  FAR: (55, 0.08, 1.20),
  NEAR: (90, 0.15, 0.60),
  DANGER: (127, 0.25, 0.30), # 위험: 양쪽 모터 동시에 강하게 + 연속에
-가깝게
-}
+가깝게 }
 HAPTIC_STALE_SEC = 0.6 # 이 시간 동안 감지가 갱신 안 되면 진동
 정지
 # ---- TTS ----
@@ -84,8 +80,7 @@ KO_LABEL = {
 "dog": "개",
  "cat": "고양이", "backpack": "가방", "bottle": "병", "couch": "소파",
  "potted plant": "화분", "dining table": "테이블", "traffic light": "신
-호등",
-}
+호등",}
 SIDE_KO = {"LEFT": "왼쪽", "CENTER": "가운데", "RIGHT": "오른쪽"}
 # =========================================================
 # 공유 데이터
