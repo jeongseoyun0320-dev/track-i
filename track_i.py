@@ -436,6 +436,7 @@ subprocess.DEVNULL,
  def run(self):
  if not self.engine:
  return
+ 
  # 시작 안내: 소리 나오는지 바로 확인 가능
  self._speak("Track I ready" if TTS_LANG != "ko" else "트랙 아이 시
 작", interrupt=True)
