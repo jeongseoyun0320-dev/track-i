@@ -237,14 +237,10 @@ TTS_LANG	음성 안내 언어 설정
 
 Track-I/
 ├── README.md
-├── main.py
-├── requirements.txt
-├── docs/
-│   └── paper.pdf
+├── trak-i.py
 ├── assets/
-│   ├── system_architecture.png
-│   ├── prototype.png
-│   └── detection_result.png
+│   ├── Track-I 발표자료.pdf
+│   └── Track-I_Hanium_ACK2026_Paper.pdf
 └── .gitignore
 
 ※ 위 구조는 권장 예시입니다. 실제 저장소에 추가한 파일명과 디렉터리에 맞게 수정하세요.
