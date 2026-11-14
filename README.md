@@ -90,6 +90,7 @@ python track_i.py
 * **관련 자료**:
   * [Track-I 최종 발표자료 보기](./assest/Track-I_발표자료.pdf)
   * [ACK 2026 학술대회 게재 논문 보기](./assest/TrackI_Hanium_ACK2026_Paper.pdf)
+    
 * **수상 내역**:
   * 한이음 드림업 지원 사업 장려상
   * 교내 2026 도전 Start UP 리그 입선
