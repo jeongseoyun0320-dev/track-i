@@ -54,7 +54,7 @@ TRACK-I는 시각장애인이 직접 착용할 수 있는 힙색(벨트) 형태�
 * 메인 스레드는 영상 획득 및 YOLOv8n 추론만 담당하여 병목현상을 최소화합니다.
 * 햅틱(Haptic) 제어와 음성(TTS) 제어는 각각 독립된 스레드에서 병렬 처리되어 시스템 지연(Blocking)을 방지합니다.
 
-## 🚀 설치 및 실행 방법 (Installation & Usage)
+## 🚀 설치 및 실행 방법 (Installation & Usage) 
 
 ### 환경 설정 (Prerequisites)
 * JetPack 6.x / Ubuntu 22.04 (Jetson Orin Nano)
