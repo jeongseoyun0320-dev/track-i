@@ -1,1 +1,1 @@
-gitign
+gitigno
