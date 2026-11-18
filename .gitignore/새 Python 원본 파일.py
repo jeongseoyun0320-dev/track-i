@@ -1,1 +1,1 @@
-gitigno
+gitignore
