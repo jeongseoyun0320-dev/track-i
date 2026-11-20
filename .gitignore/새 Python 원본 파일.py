@@ -1,1 +1,1 @@
-gitignore te
+gitignore tes
