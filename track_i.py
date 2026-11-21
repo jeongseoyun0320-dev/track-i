@@ -21,6 +21,7 @@ from dataclasses import dataclass
 from typing import List, Optional
 import cv2
 from smbus2 import SMBus
+
 # =========================================================
 # 설정
 # =========================================================
