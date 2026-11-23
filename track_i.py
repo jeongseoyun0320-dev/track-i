@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Track-I : CSI camera (IMX219) + YOLO + dual haptic (DA7280 x2 via
+Track-I : CSI camera (IMX219) + YOLO + dual haptic (DA7280 x2 via 
 TCA9548A) + TTS + UI
 Threads
  - CameraThread : GStreamer capture (원본 파이프라인 그대로, flip -1 유
