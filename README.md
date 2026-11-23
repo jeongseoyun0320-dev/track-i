@@ -97,5 +97,4 @@ python track_i.py
   * 지역혁신 인재양성 페스티벌 AI DX 부문 장려상
 
 ## 📝 License
-
 This project is licensed under the MIT License.
