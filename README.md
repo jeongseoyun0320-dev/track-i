@@ -1,7 +1,7 @@
 # 🏃‍♂️ TRACK-I: 시각장애인 마라토너를 위한 온디바이스 AI 스마트 벨트
  
 (On-Device Vision AI and Multi-Sensory Feedback-Based Smart Belt System for Visually Impaired Running Assistance)
-
+ 
 ## 📌 프로젝트 소개 (Introduction)
 
 **TRACK-I**는 시각장애인 마라토너가 가이드 러너의 물리적 연결(테더)과 주변 소음으로 인해 겪는 주행 리듬의 제약 및 정보 전달의 한계를 보완하기 위해 개발된 **스마트 웨어러블 시스템**입니다.
