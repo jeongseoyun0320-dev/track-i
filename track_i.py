@@ -14,7 +14,7 @@ Threads
 종료: 영상 창에서 q / ESC / EXIT 버튼, 터미널에서 q / Ctrl+C
 """
 
-import shutil
+import shutil 
 import subprocess
 import threading
 import time
