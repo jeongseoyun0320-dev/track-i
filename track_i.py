@@ -4,8 +4,7 @@
 Track-I : CSI camera (IMX219) + YOLO + dual haptic (DA7280 x2 via
 TCA9548A) + TTS + UI
 Threads
- - CameraThread : GStreamer capture (원본 파이프라인 그대로, flip -1 유
-지)
+ - CameraThread : GStreamer capture (원본 파이프라인 그대로, flip -1 유지)
  - DetectorThread : YOLO 추론 -> 위치(좌/중/우) + 거리(FAR/NEAR/DANGER)
 판정
  - HapticThread : I2C 소유 스레드 (DA7280 초기화/진동 패턴)
