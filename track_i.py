@@ -9,7 +9,7 @@ Threads
  - HapticThread : I2C 소유 스레드 (DA7280 초기화/진동 패턴)
  - TTSThread : espeak-ng 음성 안내 (위험 시 즉시 끼어들기)
  - main : 화면 UI (cv2.imshow 는 메인 스레드에서만) 
-종료: 영상 창에서 q / ESC / EXIT 버튼, 터미널에서 q / Ctrl+C
+종료: 영상 창에서 Q / ESC / EXIT 버튼, 터미널에서 q / Ctrl+C
 """
  
 import shutil
