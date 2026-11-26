@@ -1,4 +1,4 @@
-# 🏃‍♂️ TRACK-I: 시각장애인 마라토너를 위한 온디바이스 AI 스마트 벨트 시스템
+# 🏃‍♂️ TRACK-I: 시각장애인 마라토너를 위한 온디바이스 AI 스마트 벨트
  
 (On-Device Vision AI and Multi-Sensory Feedback-Based Smart Belt System for Visually Impaired Running Assistance)
  
